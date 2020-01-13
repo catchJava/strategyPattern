@@ -1,4 +1,4 @@
-package poketmon_v1;
+package stategyPattern.poketmon_v2;
 
 public class MrWei extends Poketmon {
 

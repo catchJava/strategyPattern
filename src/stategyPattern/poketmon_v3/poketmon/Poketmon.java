@@ -1,7 +1,7 @@
-package poketmon_v3.poketmon;
+package stategyPattern.poketmon_v3.poketmon;
 
-import poketmon_v3.skill.attack.AttackStrategy;
-import poketmon_v3.skill.defense.DefenseStrategy;
+import stategyPattern.poketmon_v3.skill.attack.AttackStrategy;
+import stategyPattern.poketmon_v3.skill.defense.DefenseStrategy;
 
 public abstract class Poketmon {
 

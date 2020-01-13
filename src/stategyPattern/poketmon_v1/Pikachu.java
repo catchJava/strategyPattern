@@ -1,4 +1,4 @@
-package poketmon_v1;
+package stategyPattern.poketmon_v1;
 
 public class Pikachu extends Poketmon {
 

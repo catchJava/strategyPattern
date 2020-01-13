@@ -1,4 +1,4 @@
-package poketmon_v3.skill.attack;
+package stategyPattern.poketmon_v3.skill.attack;
 
 public class MillionVoltsAttack implements AttackStrategy {
     @Override

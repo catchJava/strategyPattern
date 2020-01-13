@@ -1,4 +1,9 @@
-package poketmon_v1;
+package stategyPattern.poketmon_v3;
+
+import stategyPattern.poketmon_v3.poketmon.Fieri;
+import stategyPattern.poketmon_v3.poketmon.MrWei;
+import stategyPattern.poketmon_v3.poketmon.Pikachu;
+import stategyPattern.poketmon_v3.poketmon.Poketmon;
 
 public class PoketmonFactory {
 

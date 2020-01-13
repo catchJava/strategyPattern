@@ -1,4 +1,4 @@
-package poketmon_v2;
+package stategyPattern.poketmon_v1;
 
 public abstract class Poketmon {
 

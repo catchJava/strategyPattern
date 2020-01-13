@@ -1,11 +1,11 @@
-package poketmon_v3;
+package stategyPattern.poketmon_v3;
 
-import poketmon_v3.poketmon.Poketmon;
-import poketmon_v3.skill.attack.AttackStrategy;
-import poketmon_v3.skill.attack.HTVoltsAttack;
-import poketmon_v3.skill.attack.MillionVoltsAttack;
-import poketmon_v3.skill.defense.DefenseStrategy;
-import poketmon_v3.skill.defense.HighSpeedMoveDefense;
+import stategyPattern.poketmon_v3.poketmon.Poketmon;
+import stategyPattern.poketmon_v3.skill.attack.AttackStrategy;
+import stategyPattern.poketmon_v3.skill.attack.HTVoltsAttack;
+import stategyPattern.poketmon_v3.skill.attack.MillionVoltsAttack;
+import stategyPattern.poketmon_v3.skill.defense.DefenseStrategy;
+import stategyPattern.poketmon_v3.skill.defense.HighSpeedMoveDefense;
 
 public class PoketmonMain {
     public static void main(String[] args) {

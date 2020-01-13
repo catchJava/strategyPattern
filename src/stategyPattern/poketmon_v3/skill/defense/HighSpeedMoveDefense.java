@@ -1,4 +1,4 @@
-package poketmon_v3.skill.defense;
+package stategyPattern.poketmon_v3.skill.defense;
 
 public class HighSpeedMoveDefense implements DefenseStrategy {
     @Override
