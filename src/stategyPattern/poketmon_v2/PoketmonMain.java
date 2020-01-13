@@ -14,8 +14,10 @@ public class PoketmonMain {
         pika.attack();
         pika.defense();
 
-        System.out.println("파이리 공격---------------");
-        fieri.attack();
-        fieri.defense();
+        System.out.println("피카츄 라이츄로 진화---------------");
+        pika.setEvolution(1);
+        pika.attack();
+        pika.defense();
+
     }
 }

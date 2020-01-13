@@ -10,8 +10,10 @@ public class Pikachu extends Poketmon {
                 break;
             case 1:
                 System.out.println("백만볼트!!!");
+                break;
             case 2:
                 System.out.println("천만볼트!!!");
+                break;
         }
     }
 
